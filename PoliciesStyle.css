@@ -1,0 +1,36 @@
+body{
+		margin: 0 auto;
+		Width: 1400px;
+		font-size: 16px;
+		font: "Times New Roman";
+		background: AntiqueWhite;
+}
+header{
+		Font:"Times New Roman";
+		Background: AntiqueWhite;
+		Width: 1400px;
+		text-align: center;		
+		}
+ul{
+	list-style-type: none;
+	Margin: 0;
+	Padding: 0;
+	overflow: hidden;
+	background: AntiqueWhite;
+	border-radius: 40px;
+	}
+li{
+	float: left;
+}
+li a{
+		display: block;
+		color: black;
+		text-align: center;
+		padding: 14px 16px;
+}
+section{
+		font-size: 24;
+		font:"Times New Roman";
+		border-style: solid; 
+		margin: 15px;
+}
